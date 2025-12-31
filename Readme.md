@@ -27,18 +27,18 @@ El objetivo del sitio es presentar de forma clara:
 ## Estructura del proyecto
 
 /
-├── index.html
-├── style.css
-├── assets/
-│ ├── favicon.svg
-│ └── images/
-└── resources/
-├── about/
-│ └── index.html
-├── proyect/
-│ └── index.html
-└── contact/
-    └── index.html
+├── index.html <br>
+├── style.css <br>
+├── assets/ <br>
+│ ├── favicon.svg <br>
+│ └── images/ <br>
+└── resources/ <br> 
+├── about/ <br>
+│ └── index.html <br>
+├── proyect/ <br>
+│ └── index.html <br>
+└── contact/ <br>
+    └── index.html <br> <br>
 
 ---
 
@@ -114,3 +114,4 @@ No se permite su redistribución sin autorización.
 
 🟢 En desarrollo activo  
 Se seguirán agregando mejoras visuales y nuevos proyectos.
+
